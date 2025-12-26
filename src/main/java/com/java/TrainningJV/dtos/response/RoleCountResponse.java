@@ -10,5 +10,5 @@ import lombok.*;
 public class RoleCountResponse {
     private Long roleId;
     private String roleName;
-    private int userCount;
+    private Long userCount;
 }
